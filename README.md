@@ -38,7 +38,7 @@ With its ability to perform semantic searches and generate responses using **Goo
 ### Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Roshni-selvarajan/RAG_LegalBot.git
+   git clone "https://github.com/lvxvlmidhu/LAW_LOOM.git"
    ```
 
 2. Install dependencies:
@@ -88,11 +88,10 @@ With its ability to perform semantic searches and generate responses using **Goo
 
 ### Acknowledgements
 This project is powered by:
-- [Hugging Face](https://huggingface.co/)
-- [Pinecone](https://www.pinecone.io/)
-- [Google Generative AI](https://cloud.google.com/genai)
-- [Flask](https://flask.palletsprojects.com/)
-
+- [Hugging Face]
+- [Pinecone]
+- [Google Generative AI]
+- [Flask]
 Special thanks to the open-source community for the incredible tools and frameworks.
 
 ---
