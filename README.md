@@ -3,8 +3,7 @@
 
 ### Overview
 ### Watch the Demo Video:
-[Watch the demo video](https://drive.google.com/file/d/1n5FQq34yAq1tWP1MZuNhRih6ZoJqYLeO/view?usp=drive_link)
-
+[watch demo video] https://1drv.ms/v/c/5ffd074a1f11b5b9/EVRMzHZehfxIpv-szN8cYggB_h6mcYaTvzH-Wfh4LGA5cw?e=ljLfhm
 LegalBot is a chatbot designed to assist legal professionals, researchers, and individuals seeking legal advice by delivering accurate and contextual responses to complex legal queries. The chatbot leverages **Retrieval-Augmented Generation (RAG)** to enhance the quality of its responses, ensuring they are both relevant and well-informed.
 
 With its ability to perform semantic searches and generate responses using **Google Generative AI**, LegalBot aims to simplify legal research, streamline document analysis, and provide quick access to legal insights.
@@ -92,6 +91,5 @@ This project is powered by:
 - [Pinecone]
 - [Google Generative AI]
 - [Flask]
-Special thanks to the open-source community for the incredible tools and frameworks.
 
 ---
